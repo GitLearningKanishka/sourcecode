@@ -12,6 +12,7 @@ public class DiscoveryServerApplication {
 		SpringApplication.run(DiscoveryServerApplication.class, args);
 		System.out.println("Test");
 		System.out.println("New Commit");
+		System.out.println("Third Commit");
 		
 	}
 
