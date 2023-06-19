@@ -10,6 +10,10 @@ public class DiscoveryServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DiscoveryServerApplication.class, args);
+		System.out.println("Test");
+		System.out.println("New Commit");
+		System.out.println("Third Commit");
+		
 	}
 
 }
