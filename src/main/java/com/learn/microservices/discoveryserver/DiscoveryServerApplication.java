@@ -13,6 +13,7 @@ public class DiscoveryServerApplication {
 		System.out.println("Test");
 		System.out.println("New Commit");
 		System.out.println("Third Commit");
+		System.out.println("----------------");
 		
 	}
 
